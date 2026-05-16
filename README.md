@@ -1,7 +1,7 @@
 # AI Prompt Engineering & Video Creation Task
 
 ### 🔗 Submission Deliverables
-* **Final AI-Generated Reel:** Located in this repository as 
+* **Final AI-Generated Reel:** Located in this repository as "FINAL_REEL.mp4"
 * **Mandatory Workflow Screen Recording:** https://drive.google.com/file/d/1C333WY4UnXTmo4r5hrbNJZ5AwZh1OdoA/view?usp=drive_link
 
 ### 🛠️ AI Tools Used
